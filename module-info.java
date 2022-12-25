@@ -1,0 +1,9 @@
+/**
+ * 
+ */
+/**
+ * @author wever
+ *
+ */
+module ChallengeJava {
+}
